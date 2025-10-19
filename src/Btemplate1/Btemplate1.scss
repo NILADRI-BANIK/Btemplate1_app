@@ -1,0 +1,30 @@
+#carouselB1 {
+	.alice-carousel__wrapper {
+
+
+		.alice-carousel__stage-item {
+			#details {
+				display: none;
+			}
+		}
+		.__target {
+			#details {
+                display: flex;
+			}
+		}
+	}
+
+	.alice-carousel__prev-btn {
+		display: none;
+	}
+
+	.alice-carousel__next-btn {
+		display: none;
+	}
+
+	.alice-carousel__dots {
+		display: none;
+	}
+}
+
+
